@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
-  data.map do |item|
+  data.map do |key, value|
     binding.pry 
     
   end
