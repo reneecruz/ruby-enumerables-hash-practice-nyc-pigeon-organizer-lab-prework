@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-  data.collect do |
+  data.map do |item| item.key, item.value
 end
