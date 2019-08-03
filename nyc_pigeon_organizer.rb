@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-  data.
+  data.collect do |
 end
