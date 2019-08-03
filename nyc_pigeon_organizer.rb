@@ -1,10 +1,6 @@
 def nyc_pigeon_organizer(data)
-  
-  
-  
-  
+   binding.pry     
   data.map do |key, value|
-    binding.pry     
-  end
+ end
 end
 
